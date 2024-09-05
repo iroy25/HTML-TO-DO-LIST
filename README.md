@@ -52,9 +52,10 @@ This creates a full-cycle task management system that maintains state using loca
                                                           OUTPUT
 
 
-![Screenshot 2024-09-05 123545](https://github.com/user-attachments/assets/fbabf6b4-220a-451e-9f11-876401167970)
+![Screenshot 2024-09-05 124127](https://github.com/user-attachments/assets/8742434a-01f2-4aae-bf4d-78961e362968)
 
 
-![Screenshot 2024-09-05 123621](https://github.com/user-attachments/assets/5aca4e68-9fda-4694-9561-80a6303f9d64)
+![Screenshot 2024-09-05 124139](https://github.com/user-attachments/assets/34809221-8682-492c-8674-4f2e63227c54)
+
 
                                                           
